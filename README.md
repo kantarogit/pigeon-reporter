@@ -1,6 +1,6 @@
 # pigeon-reporter
 
-**pigeon-reporter** helps you see your Playwright test results live, as they happen. It acts as a messenger between your Playwright tests and any app or dashboard you want to build. When your tests run, pigeon-reporter sends updates in real time to a server, so you (or your team) can watch progress, catch failures quickly, or store results for later. You will need a [pigeon-server](https://www.npmjs.com/package/pigeon-server)) running in between the reporter and your app.
+**pigeon-reporter** helps you see your Playwright test results live, as they happen. It acts as a messenger between your Playwright tests and any app or dashboard you want to build. When your tests run, pigeon-reporter sends updates in real time to a server, so you (or your team) can watch progress, catch failures quickly, or store results for later. You will need a [pigeon-server](https://www.npmjs.com/package/pigeon-server) running in between the reporter and your app.
 
 ## Why use it?
 
