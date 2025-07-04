@@ -1,6 +1,6 @@
 {
   "name": "pigeon-reporter",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Pigeon live reporter for Playwright tests, broadcasting test results to the pigeon server",
   "main": "./reporters/playwright/playwrightReporter.js",
   "scripts": {
